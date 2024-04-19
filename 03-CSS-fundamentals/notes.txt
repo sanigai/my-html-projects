@@ -1,0 +1,5 @@
+CSS - Cascading Style Sheet
+CSS describes the visual style and representation of the content written in HTML
+There are 3 different types in which we can write the CSS : 
+1. INLINE 2.INTERNAL 3.EXTERNAL
+
